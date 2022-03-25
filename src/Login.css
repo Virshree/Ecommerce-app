@@ -1,0 +1,41 @@
+
+.app{
+  text-align: center;
+  padding: 20px;
+}
+.app-body{
+display: flex;
+flex-direction: column;
+border: 1px solid  gray;
+width: 300px;
+height: 400px;
+padding: 20px;
+margin: auto;
+font-weight: bold;
+border-radius: 10px;
+box-shadow: 10px 15px 15px black;
+}
+.form {
+
+display: flex;
+flex-direction: column;
+
+}
+.form label{
+  text-align: left;
+}
+h3{
+  text-align: left;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.forget-password{
+  margin: 2px;
+  color: blue;
+  float: right;
+  cursor: pointer;
+  font-size: 12px;
+}
+.signup{
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,10 @@
+.nav{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+    height: 8vh;
+    font-size: 20px;
+    padding: 10px;
+    
+
+}

@@ -1,0 +1,13 @@
+.about{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+   
+
+}
+.info{
+    width: 900px;
+    margin: 20px;
+    float: right;
+    font-size: 20px;
+}
